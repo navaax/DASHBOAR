@@ -209,7 +209,7 @@ renderTable();
 // Create the download button and append it to the page
 document.addEventListener('DOMContentLoaded', () => {
   const downloadButton = document.createElement('button');
-  downloadButton.textContent = 'Download Report';
+  downloadButton.textContent = 'Descargar Reporte';
   downloadButton.id = 'downloadReportButton'; // Add an id to the button
   downloadButton.style.position = 'fixed';
   downloadButton.style.bottom = '20px';
