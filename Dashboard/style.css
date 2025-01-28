@@ -1,0 +1,67 @@
+
+   body {
+            background: white;
+            font-family: 'Arial', sans-serif;
+        }
+        .sidebar {
+            background-color: #fff;
+            border-radius: 20px;
+            padding: 20px;
+            height: 100vh;
+        }
+        .sidebar img {
+            border-radius: 50%;
+        }
+        .sidebar .nav-link {
+            color: #000;
+            margin: 10px 0;
+        }
+        .sidebar .nav-link.active {
+            background-color: #f0f0f0;
+            border-radius: 10px;
+        }
+        .content {
+            background-color: #fff;
+            border-radius: 20px;
+            padding: 20px;
+            /* margin-left: 100px; */
+        }
+        .table th, .table td {
+            vertical-align: middle;
+        }
+        .badge {
+            padding: 5px 10px;
+            border-radius: 10px;
+        }
+        .badge-closed {
+            background-color: #e0f7e9;
+            color: #34a853;
+        }
+        .badge-negotiation {
+            background-color: #fff7e0;
+            color: #fbbc05;
+        }
+        .badge-prospecting {
+            background-color: #f3e5f5;
+            color: #9c27b0;
+        }
+        .badge-qualification {
+            background-color: #e3f2fd;
+            color: #1e88e5;
+        }
+        .progress-bar-container {
+            width: 100%;
+            background-color: #e0e0e0;
+            border-radius: 5px;
+            overflow: hidden; /* Prevent progress bar from overflowing container */
+            height: 20px;
+        }
+        
+        .progress-bar {
+            height: 100%;
+            background-color: #4CAF50;
+            width: 0%; /* Initially set to 0% */
+            color: black;
+            text-align: center;
+            line-height: 20px; /* Vertically center the text */
+        }

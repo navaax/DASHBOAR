@@ -1,0 +1,829 @@
+{
+    "cantidad_computadoras": 7,
+    "areas": [
+      {
+        "nombre": "MOSTRADOR",
+        "computadoras": [
+          {
+            "id": 1,
+            "nombre": "PC2",
+            "userInfo": [
+              {
+                "UserName": "DESKTOP-PQKH2OE\\Leti"
+              }
+            ],
+            "osInfo": {
+              "Caption": "Microsoft Windows 10 Home Single Language",
+              "Version": "10.0.19045",
+              "Architecture": null,
+              "OSArchitecture": "32 bits",
+              "BuildNumber": 19045
+            },
+            "cpuInfo": {
+              "Name": "Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz",
+              "NumberOfCores": 2,
+              "NumberOfLogicalProcessors": 4
+            },
+            "ramInfo": {
+              "TotalRAM (GB)": 3.39,
+              "FreeRAM (GB)": 0.87
+            },
+            "diskInfo": {
+              "DeviceID": "C:",
+              "Size (GB)": 298.04,
+              "FreeSpace (GB)": 260.72
+            },
+             "diskDriveInfo": [
+                {
+                "Number": 0,
+                "FriendlyName":"WDC WD3200AAJS-60M0A0",
+                "SerialNumber":"WD-WCAV24992370",
+                "MediaType":"Unspecified",
+                "CanPool": false,
+                "OperationalStatus":"OK",
+                "HealthStatus":"Healthy",
+                "Usage":"Auto-Select",
+                "Size":"298.09 GB"
+  
+              }
+              ],
+            "networkAdapters": [
+              {
+                "Name": "Ethernet",
+                "MacAddress": "B8-AE-ED-35-20-B0",
+                "IPv4Address": "192.168.1.81",
+                "SubnetMask": "24"
+              }
+            ],
+            "installedPrograms": [
+              {
+                "DisplayName": "AnyDesk",
+                "DisplayVersion": "ad 8.0.10"
+              },
+              {
+                "DisplayName": "Google Chrome",
+                "DisplayVersion": "131.0.6778.265"
+              },
+             {
+              "DisplayName":"Microsoft Edge",
+              "DisplayVersion":"132.0.2957.115"
+             },
+              {
+                  "DisplayName":null,
+                "DisplayVersion":"1.3.195.43"
+               },
+              {
+                 "DisplayName": "WebView2 Runtime de Microsoft Edge",
+                "DisplayVersion": "131.0.2903.146"
+              },
+               {
+              "DisplayName":"Microsoft Office LTSC Standard 2021 - en-us",
+              "DisplayVersion":"16.0.14332.20839"
+              },
+             {
+               "DisplayName":"Microsoft Office LTSC Standard 2021 - es-es",
+                "DisplayVersion":"16.0.14332.20839"
+              },
+              {
+                "DisplayName": "WinRAR 6.22 (32-bit)",
+                "DisplayVersion": "6.22.0"
+              },
+              {
+               "DisplayName": "Microsoft Update Health Tools",
+                "DisplayVersion":"3.74.0.0"
+              },
+              {
+                 "DisplayName":"Office 16 Click-to-Run Licensing Component",
+                "DisplayVersion":"16.0.14332.20839"
+              },
+               {
+                  "DisplayName":"Office 16 Click-to-Run Extensibility Component",
+                  "DisplayVersion":"16.0.14332.20839"
+              },
+               {
+                  "DisplayName":"Office 16 Click-to-Run Localization Component",
+                  "DisplayVersion":"16.0.14332.20791"
+              },
+               {
+                  "DisplayName":"EC POS Driver version 1.2",
+                  "DisplayVersion":"1.2"
+              },
+               {
+                  "DisplayName":"Update for Windows (KB5001716)",
+                  "DisplayVersion":"8.94.0.0"
+              }
+            ]
+          },
+          {
+             "id": 2,
+             "nombre": "PC3",
+            "cpuInfo": {
+              "Name": "AMD Athlon(tm) 64 X2 Dual Core Proce...",
+              "NumberOfCores": 2,
+              "NumberOfLogicalProcessors": 2
+            },
+            "ramInfo": {
+              "TotalRAM (GB)": 2.94,
+              "FreeRAM (GB)": 0.89
+            },
+              "diskInfo": {
+                  "DeviceID":"C:",
+                  "Size (GB)": 74.43,
+                  "FreeSpace (GB)": 24.21
+                  },
+              "installedPrograms":[
+                   {
+                      "Name":"Virtual Serial Ports Emulator (x32)",
+                      "Version":"1.3.6.970"
+                    },
+                     {
+                      "Name":"Microsoft Application Error Reporting",
+                      "Version":"12.0.6012.5000"
+                     },
+                     {
+                      "Name":"Microsoft Office Outlook Connector",
+                      "Version":"14.0.6123.5001"
+                     },
+                     {
+                       "Name":"Windows Live SOXE Definitions",
+                      "Version":"16.4.3528.0331"
+                     },
+                       {
+                        "Name":"Windows Live SOXE",
+                      "Version":"16.4.3528.0331"
+                     },
+                       {
+                          "Name":"Microsoft .NET Framework 4.8",
+                          "Version":"4.8.03761"
+                         },
+                          {
+                              "Name":"Windows Live Writer Resources",
+                           "Version":"16.4.3528.0331"
+                          },
+                             {
+                              "Name":"Windows Live MIME IFilter",
+                              "Version":"16.4.3528.0331"
+                             },
+                               {
+                                  "Name":"Windows Live Writer Resources",
+                               "Version":"16.4.3528.0331"
+                               },
+                                 {
+                                  "Name":"Windows Live Essentials",
+                                 "Version":"16.4.3528.0331"
+                                  },
+                                  {
+                                    "Name":"Trend Micro Worry-Free Business Security Agent",
+                                   "Version":"9.0"
+                                  },
+                                 {
+                                     "Name":"Microsoft .NET Framework 4.8 (ESN)",
+                                   "Version":"4.8.03761"
+                                },
+                                {
+                                   "Name":"Windows Live Photo Common",
+                                 "Version":"16.4.3528.0331"
+                                  },
+                                 {
+                                    "Name":"D3DX10",
+                                    "Version":"15.4.2368.0902"
+                                  },
+                                  {
+                                    "Name":"Windows Live Communications Platform",
+                                   "Version":"16.4.3528.0331"
+                                },
+                                  {
+                                      "Name":"Junk Mail filter update",
+                                   "Version":"16.4.3528.0331"
+                                    },
+                                   {
+                                      "Name":"Windows Live Mail",
+                                     "Version":"16.4.3528.0331"
+                                   },
+                                     {
+                                       "Name":"MSVCRT110",
+                                      "Version":"16.4.1108.0727"
+                                    },
+                                  {
+                                    "Name":"Google Update Helper",
+                                   "Version":"1.3.25.11"
+                                   },
+                                  {
+                                    "Name":"Windows Live UX Platform Language Pack",
+                                     "Version":"16.4.3528.0331"
+                                    },
+                                   {
+                                     "Name":"MSVCRT",
+                                    "Version":"15.4.2862.0708"
+                                  },
+                                    {
+                                      "Name":"Photo Common",
+                                     "Version":"16.4.3528.0331"
+                                    },
+                                    {
+                                         "Name":"Windows Live PIMT Platform",
+                                     "Version":"16.4.3528.0331"
+                                  },
+                                      {
+                                         "Name":"Windows Live UX Platform Language Pack",
+                                     "Version":"16.4.3528.0331"
+                                   },
+                                   {
+                                     "Name":"Windows Live Mail",
+                                    "Version":"16.4.3528.0331"
+                                    },
+                                     {
+                                          "Name":"Windows Live Installer",
+                                      "Version":"16.4.3528.0331"
+                                      },
+                                    {
+                                      "Name":"Windows Live UX Platform",
+                                       "Version":"16.4.3528.0331"
+                                     },
+                                     {
+                                         "Name":"Windows Live Essentials",
+                                     "Version":"16.4.3528.0331"
+                                     },
+                                   {
+                                         "Name":"Windows Live Mail",
+                                      "Version":"16.4.3528.0331"
+                                      },
+                                  {
+                                       "Name":"Windows Live Writer",
+                                       "Version":"16.4.3528.0331"
+                                    },
+                                  {
+                                     "Name":"Windows Live ID Sign-in Assistant",
+                                      "Version":"7.250.4311.0"
+                                  },
+                                  {
+                                      "Name":"Photo Common",
+                                      "Version":"16.4.3528.0331"
+                                  }
+              ],
+            "networkAdapters": [
+                {
+                "Name":"RAS Async Adapter",
+                "MacAddress":"20:41:53:59:4E:FF",
+                "IPv4Address":"192.168.1.153",
+                "SubnetMask":"255.255.255.0"
+              },
+              {
+                  "Name":"NVIDIA nForce 10/100 Mbps ...",
+                  "MacAddress":"44:87:FC:5C:03:12",
+                  "IPv4Address":"192.168.1.153",
+                  "SubnetMask":"255.255.255.0"
+                  }
+            ],
+            "userInfo": [
+              {
+                "UserName": "GENERAL\\Caja"
+              }
+            ],
+            "osInfo": {
+               "Caption": "Microsoft Windows 7 Professional",
+               "Version": "6.1.7601",
+               "Architecture": null,
+               "OSArchitecture": "32 bits",
+               "BuildNumber": 7601
+            }
+          },
+             {
+              "id": 3,
+            "nombre": "pc 4",
+            "cpuInfo": {
+               "Procesador":"Intel(R) Celeron(R) CPU        E3400  @ 2.60GHz",
+              "Núcleos": 2,
+               "Procesadores Lógicos": 2
+            },
+            "ramInfo": {
+              "Memoria Total": "1.97 GB",
+              "Memoria Libre": "0.27 GB"
+            },
+            "diskInfo": {
+              "Disco": "C:",
+               "Tamaño": "73.99 GB",
+              "Espacio Libre": "0 GB"
+               },
+               "installedPrograms":[
+                     {
+                           "DisplayName":"Adobe Genuine Service",
+                          "DisplayVersion":"8.5.1.48"
+                       },
+                          {
+                             "DisplayName":"BurnAware Professional 10",
+                              "DisplayVersion":null
+                           },
+                           {
+                               "DisplayName":"CCleaner",
+                              "DisplayVersion":"6.31"
+                              },
+                             {
+                                 "DisplayName":"Google Chrome",
+                                "DisplayVersion":"131.0.6778.266"
+                               },
+                                {
+                                    "DisplayName":"Microsoft Edge",
+                                "DisplayVersion":"131.0.2903.146"
+                              },
+                              {
+                                   "DisplayName":null,
+                                 "DisplayVersion":"1.3.195.43"
+                              },
+                               {
+                                 "DisplayName":"WebView2 Runtime de Microsoft Edge",
+                               "DisplayVersion":"131.0.2903.146"
+                               },
+                               {
+                                  "DisplayName":"Microsoft Office Professional Plus 2016",
+                                 "DisplayVersion":"16.0.4266.1001"
+                               },
+                                {
+                                 "DisplayName":"Samsung Printer Live Update",
+                                 "DisplayVersion":"1.01.00:04(2013-04-22)"
+                                },
+                                 {
+                                 "DisplayName":"WinRAR 5.40 (32-bit)",
+                                  "DisplayVersion":"5.40.0"
+                               },
+                                {
+                                 "DisplayName":"PDF24 Creator 9.2.2",
+                                 "DisplayVersion":"9.2.2"
+                                },
+                                 {
+                                    "DisplayName":"Microsoft Update Health Tools",
+                                "DisplayVersion":"3.74.0.0"
+                                 },
+                               {
+                                 "DisplayName":"Microsoft Office Professional Plus 2016",
+                                   "DisplayVersion":"16.0.4266.1001"
+                                  },
+                                 {
+                                     "DisplayName":"Microsoft Access MUI (Spanish) 2016",
+                                   "DisplayVersion":"16.0.4266.1001"
+                                    },
+                                    {
+                                         "DisplayName":"Microsoft Excel MUI (Spanish) 2016",
+                                      "DisplayVersion":"16.0.4266.1001"
+                                  },
+                                 {
+                                      "DisplayName":"Microsoft PowerPoint MUI (Spanish) 2016",
+                                   "DisplayVersion":"16.0.4266.1001"
+                                    },
+                                     {
+                                       "DisplayName":"Microsoft Publisher MUI (Spanish) 2016",
+                                     "DisplayVersion":"16.0.4266.1001"
+                                       },
+                                       {
+                                         "DisplayName":"Microsoft Outlook MUI (Spanish) 2016",
+                                       "DisplayVersion":"16.0.4266.1001"
+                                       },
+                                       {
+                                          "DisplayName":"Microsoft Word MUI (Spanish) 2016",
+                                       "DisplayVersion":"16.0.4266.1001"
+                                       },
+                                       {
+                                          "DisplayName":"Eines de correcció del Microsoft Office 2016: català",
+                                          "DisplayVersion":"16.0.4266.1001"
+                                        },
+                                       {
+                                           "DisplayName":"Microsoft Office Proofing Tools 2016 - English",
+                                          "DisplayVersion":"16.0.4266.1001"
+                                         },
+                                         {
+                                             "DisplayName":"Revisores de Texto do Microsoft Office 2016 – Português (Brasil)",
+                                           "DisplayVersion":"16.0.4266.1001"
+                                         },
+                                          {
+                                              "DisplayName":"Microsoft Office zuzenketa-tresnak 2016 - Euskara",
+                                           "DisplayVersion":"16.0.4266.1001"
+                                          },
+                                           {
+                                            "DisplayName":"Ferramentas de verificación de Microsoft Office 2016 - Galego",
+                                           "DisplayVersion":"16.0.4266.1001"
+                                           },
+                                            {
+                                             "DisplayName":"Herramientas de corrección de Microsoft Office 2016: español",
+                                          "DisplayVersion":"16.0.4266.1001"
+                                            },
+                                           {
+                                                "DisplayName":"Microsoft Office Proofing (Spanish) 2016",
+                                            "DisplayVersion":"16.0.4266.1001"
+                                              },
+                                           {
+                                                  "DisplayName":"Microsoft InfoPath MUI (Spanish) 2016",
+                                                "DisplayVersion":"16.0.4266.1001"
+                                           },
+                                             {
+                                               "DisplayName":"Microsoft Office Shared MUI (Spanish) 2016",
+                                             "DisplayVersion":"16.0.4266.1001"
+                                             },
+                                             {
+                                                   "DisplayName":"Microsoft DCF MUI (Spanish) 2016",
+                                                "DisplayVersion":"16.0.4266.1001"
+                                             },
+                                             {
+                                                  "DisplayName":"Microsoft OneNote MUI (Spanish) 2016",
+                                               "DisplayVersion":"16.0.4266.1001"
+                                             },
+                                             {
+                                                   "DisplayName":"Microsoft Groove MUI (Spanish) 2016",
+                                                 "DisplayVersion":"16.0.4266.1001"
+                                             },
+                                               {
+                                                   "DisplayName":"Microsoft Office OSM MUI (Spanish) 2016",
+                                                  "DisplayVersion":"16.0.4266.1001"
+                                               },
+                                              {
+                                                "DisplayName":"Microsoft Office OSM UX MUI (Spanish) 2016",
+                                                 "DisplayVersion":"16.0.4266.1001"
+                                              },
+                                               {
+                                                    "DisplayName":"Microsoft Skype for Business MUI (Spanish) 2016",
+                                               "DisplayVersion":"16.0.4266.1001"
+                                               },
+                                            {
+                                                "DisplayName":"Adobe Acrobat DC",
+                                                "DisplayVersion":"20.006.20042"
+                                            },
+                                               {
+                                                 "DisplayName":"Update for Windows (KB5001716)",
+                                             "DisplayVersion":"8.94.0.0"
+                                               }
+  
+                   ],
+  
+            "networkAdapters": [
+              {
+                "Nombre": "Ethernet",
+                "MAC": "14-DA-E9-E2-A0-A6",
+                "IP": "192.168.1.94"
+              },
+              {
+               "Nombre":"Ethernet 2",
+              "MAC": "00-FF-58-02-3D-05",
+              "IP": "10.3.0.1"
+             }
+           ],
+            "userInfo": [
+              {
+                "Usuario Actual": "MOSTRADORX\\Mostradorx"
+              }
+            ],
+             "osInfo":{
+               "Versión del SO": "Microsoft Windows 10 Pro",
+               "Version":"10.0.19045",
+                "Build": 19045
+              }
+          }
+        ]
+      },
+      {
+        "nombre": "CAJA",
+        "computadoras": [
+            {
+               "id": 4,
+            "nombre":"PC CAJA 1",
+            "cpuInfo": {
+              "Name": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+              "NumberOfCores": 2,
+              "NumberOfLogicalProcessors": 2
+             },
+           "ramInfo": {
+              "TotalRAM (GB)": 3.43,
+               "FreeRAM (GB)": 0.83
+            },
+            "diskInfo": {
+               "DeviceID": "C:",
+             "Size (GB)": 465.66,
+              "FreeSpace (GB)": 102.24
+           },
+             "installedPrograms":[
+                {
+                     "DisplayName":"AnyDesk",
+                      "DisplayVersion":"ad 7.0.15"
+                      },
+                      {
+                      "DisplayName":"Google Chrome",
+                      "DisplayVersion":"109.0.5414.120"
+                       },
+                         {
+                            "DisplayName":"Microsoft Office Professional Plus 2010",
+                           "DisplayVersion":"14.0.6029.1000"
+                         },
+                          {
+                           "DisplayName":"TeamViewer",
+                             "DisplayVersion":"15.34.4"
+                         },
+                          {
+                             "DisplayName":"Compresor WinRAR"
+                         },
+                         {
+                               "DisplayName":"Trend Micro Worry-Free Business Security Agent",
+                            "DisplayVersion":"19.0.1240"
+                          },
+                           {
+                             "DisplayName":"Microsoft Visual C++ 2008 Redistributable - x86 9.0.3072...",
+                            "DisplayVersion":"9.0.30729.4148"
+                          },
+                          {
+                             "DisplayName":"Intel(R) USB 3.0 eXtensible Host Controller Driver",
+                               "DisplayVersion":"2.5.3.34"
+                          },
+                        {
+                          "DisplayName":"Intel® Trusted Connect Service Client",
+                          "DisplayVersion":"1.27.798.1"
+                         },
+                            {
+                               "DisplayName":"Microsoft .NET Framework 4.6.1",
+                           "DisplayVersion":"4.6.01055"
+                          },
+                        {
+                              "DisplayName":"Intel(R) Management Engine Components",
+                           "DisplayVersion":"9.0.10.1372"
+                            },
+                        {
+                            "DisplayName":"Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0....",
+                            "DisplayVersion":"11.0.51106"
+                            },
+                         {
+                             "DisplayName":"Realtek Ethernet Controller Driver",
+                              "DisplayVersion":"7.92.115.2015"
+                         },
+                         {
+                             "DisplayName":"KMSpico"
+                         },
+                         {
+                             "DisplayName":"Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.5...",
+                             "DisplayVersion":"11.0.51106.1"
+                         },
+                           {
+                             "DisplayName":"Microsoft Office Professional Plus 2010",
+                             "DisplayVersion":"14.0.6029.1000"
+                           },
+                           {
+                             "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                           },
+                         {
+                             "DisplayName":"Microsoft Office Access MUI (Spanish) 2010",
+                             "DisplayVersion":"14.0.6029.1000"
+                           },
+                         {
+                              "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                         },
+                          {
+                           "DisplayName":"Microsoft Office Excel MUI (Spanish) 2010",
+                         "DisplayVersion":"14.0.6029.1000"
+                            },
+                         {
+                             "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                           },
+                          {
+                              "DisplayName":"Microsoft Office PowerPoint MUI (Spanish) 2010",
+                              "DisplayVersion":"14.0.6029.1000"
+                          },
+                         {
+                             "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                           },
+                            {
+                               "DisplayName":"Microsoft Office Publisher MUI (Spanish) 2010",
+                             "DisplayVersion":"14.0.6029.1000"
+                           },
+                             {
+                                "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                          },
+                         {
+                             "DisplayName":"Microsoft Office Outlook MUI (Spanish) 2010",
+                          "DisplayVersion":"14.0.6029.1000"
+                           },
+                         {
+                             "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                         },
+                          {
+                           "DisplayName":"Microsoft Office Word MUI (Spanish) 2010",
+                          "DisplayVersion":"14.0.6029.1000"
+                           },
+                          {
+                             "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                          },
+                          {
+                            "DisplayName":"Microsoft Office Proof (Catalan) 2010",
+                           "DisplayVersion":"14.0.6029.1000"
+                          },
+                         {
+                             "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                         },
+                         {
+                            "DisplayName":"Microsoft Office Proof (English) 2010",
+                          "DisplayVersion":"14.0.6029.1000"
+                           },
+                           {
+                              "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                           },
+                         {
+                              "DisplayName":"Microsoft Office Proof (French) 2010",
+                             "DisplayVersion":"14.0.6029.1000"
+                         },
+                           {
+                            "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                             },
+                         {
+                             "DisplayName":"Microsoft Office Proof (Portuguese (Brazil)) 2010",
+                            "DisplayVersion":"14.0.6029.1000"
+                           },
+                            {
+                                "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                              },
+                         {
+                               "DisplayName":"Microsoft Office Proof (Basque) 2010",
+                            "DisplayVersion":"14.0.6029.1000"
+                          },
+                          {
+                              "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                           },
+                         {
+                              "DisplayName":"Microsoft Office Proof (Galician) 2010",
+                              "DisplayVersion":"14.0.6029.1000"
+                          },
+                           {
+                                "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                           },
+                         {
+                              "DisplayName":"Microsoft Office Proof (Spanish) 2010",
+                          "DisplayVersion":"14.0.6029.1000"
+                         },
+                           {
+                            "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                            },
+                          {
+                              "DisplayName":"Microsoft Office Proofing (Spanish) 2010",
+                            "DisplayVersion":"14.0.6029.1000"
+                          },
+                          {
+                              "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                          },
+                         {
+                            "DisplayName":"Microsoft Office InfoPath MUI (Spanish) 2010",
+                           "DisplayVersion":"14.0.6029.1000"
+                         },
+                          {
+                              "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                           },
+                          {
+                            "DisplayName":"Microsoft Office Shared MUI (Spanish) 2010",
+                         "DisplayVersion":"14.0.6029.1000"
+                           },
+                         {
+                              "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                          },
+                           {
+                             "DisplayName":"Microsoft Office OneNote MUI (Spanish) 2010",
+                          "DisplayVersion":"14.0.6029.1000"
+                           },
+                           {
+                               "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                          },
+                         {
+                              "DisplayName":"Microsoft Office Groove MUI (Spanish) 2010",
+                             "DisplayVersion":"14.0.6029.1000"
+                          },
+                           {
+                             "DisplayName":"Microsoft Office 2010 Service Pack 1 (SP1)"
+                         },
+                         {
+                               "DisplayName":"Microsoft .NET Framework 4.6.1",
+                           "DisplayVersion":"4.6.01055"
+                           },
+                          {
+                            "DisplayName":"Security Update for Microsoft .NET Framework 4.6.1 (KB31...",
+                               "DisplayVersion":"1"
+                           },
+                        {
+                          "DisplayName":"Security Update for Microsoft .NET Framework 4.6.1 (KB31...",
+                               "DisplayVersion":"1"
+                         },
+                      {
+                        "DisplayName":"Security Update for Microsoft .NET Framework 4.6.1 (KB31...",
+                           "DisplayVersion":"2"
+                      },
+                       {
+                         "DisplayName":"Security Update for Microsoft .NET Framework 4.6.1 (KB31...",
+                            "DisplayVersion":"1"
+                      },
+                         {
+                          "DisplayName":"Security Update for Microsoft .NET Framework 4.6.1 (KB31...",
+                              "DisplayVersion":"1"
+                        },
+                         {
+                            "DisplayName":"Security Update for Microsoft .NET Framework 4.6.1 (KB31...",
+                            "DisplayVersion":"1"
+                         },
+                      {
+                        "DisplayName":"Update for Microsoft .NET Framework 4.6.1 (KB3210136)",
+                           "DisplayVersion":"1"
+                        },
+                          {
+                          "DisplayName":"Update for Microsoft .NET Framework 4.6.1 (KB4014511)",
+                               "DisplayVersion":"1"
+                          },
+                        {
+                          "DisplayName":"Update for Microsoft .NET Framework 4.6.1 (KB4014553)",
+                            "DisplayVersion":"1"
+                          },
+                      {
+                        "DisplayName":"Update for Microsoft .NET Framework 4.6.1 (KB4040973)",
+                           "DisplayVersion":"1"
+                       },
+                      {
+                         "DisplayName":"Update for Microsoft .NET Framework 4.6.1 (KB4338420)",
+                        "DisplayVersion":"1"
+                          },
+                          {
+                             "DisplayName":"Software para dispositivos de chipset Intel®",
+                           "DisplayVersion":"10.1.1.11"
+                          },
+                           {
+                            "DisplayName":"Intel(R) Manageability Engine Firmware Recovery Agent",
+                           "DisplayVersion":"1.0.0.36943"
+                          },
+                            {
+                               "DisplayName":"Adobe Reader X (10.1.3) - Español",
+                              "DisplayVersion":"10.1.3"
+                          },
+                             {
+                              "DisplayName":"Intel(R) Chipset Device Software",
+                            "DisplayVersion":"10.1.1.11"
+                             },
+                            {
+                              "DisplayName":"Trend Micro Worry-Free Business Security Agent",
+                              "DisplayVersion":"9.0"
+                              },
+                            {
+                                "DisplayName":"Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.51106",
+                             "DisplayVersion":"11.0.51106"
+                              },
+                               {
+                                   "DisplayName":"Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+                                "DisplayVersion":"10.0.40219"
+                              }
+  
+             ],
+            "networkAdapters": [
+                {
+                   "Description":"Realtek PCIe GBE Family Controller",
+                   "MACAddress":"B8:97:5A:C5:E4:35",
+                   "IPAddress":"{192.168.1.138, fe80::81ef:770c:da29..."
+                }
+            ],
+            "userInfo": [
+              {
+                "UserName": "CAJAD\\PC"
+              }
+            ],
+            "osInfo": {
+             "Caption": "Microsoft Windows 7 Ultimate",
+                "Version": "6.1.7601",
+                "BuildNumber": 7601
+             },
+             "graphicsInfo":
+             {
+                "Intel(R) Processor Graphics":"10.18.14.4264",
+               "Realtek High Definition Audio Driver":"6.0.1.7592"
+              }
+            },
+             {
+                "id": 5,
+                "nombre":"PC CAJA 2",
+            "cpuInfo": {
+              "Name": "Intel(R) Celeron(R) CPU J3355 @ 2.00GHz",
+              "NumberOfCores": 2,
+              "NumberOfLogicalProcessors": 2
+             },
+           "ramInfo": {
+              "TotalRAM (GB)": 3.82,
+               "FreeRAM (GB)": 0.53
+            },
+            "diskInfo": {
+               "DeviceID": "C:",
+             "Size (GB)": 465.27,
+              "FreeSpace (GB)": 397.63
+            },
+             "installedPrograms": [
+               {
+                 "DisplayName":"Microsoft Office Professional Plus 2016",
+                 "DisplayVersion":"16.0.4266.1001"
+               },
+                {
+                  "DisplayName":"WinRAR 6.02 (64-bit)",
+                   "DisplayVersion":"6.02.0"
+                },
+               {
+                 "DisplayName":"Microsoft Update Health Tools",
+                "DisplayVersion":"3.74.0.0"
+               },
+                {
+                 "DisplayName":"Dot4",
+                 "DisplayVersion":"1.0.0.0"
+                },
+                {
+                 "DisplayName":"Update for Windows 
